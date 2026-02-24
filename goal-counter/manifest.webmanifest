@@ -1,0 +1,1 @@
+{"name":"Goal Counter","short_name":"Goal Counter","description":"A simple goal counter app built with Vue and Vite.","start_url":"/","display":"standalone","background_color":"#ffffff","theme_color":"#ffffff","lang":"en","scope":"/","icons":[{"src":"/favicon.ico","sizes":"64x64","type":"image/x-icon"}]}
